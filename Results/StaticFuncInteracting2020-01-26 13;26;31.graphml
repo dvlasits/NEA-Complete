@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="Finding" />
+    <node id="Turn" />
+    <node id="moreWork" />
+    <node id="Toggle" />
+    <node id="main" />
+    <node id="FuncTwo" />
+    <node id="test2" />
+    <edge source="Turn" target="Finding" />
+    <edge source="Turn" target="moreWork" />
+    <edge source="Toggle" target="Finding" />
+    <edge source="main" target="Turn" />
+    <edge source="main" target="Toggle" />
+  </graph>
+</graphml>
