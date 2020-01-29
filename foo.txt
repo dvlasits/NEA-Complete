@@ -1,0 +1,23 @@
+commit 74bdf5c2a952cef5fa1611281cbbf054929e0819
+Author: redhell1000 <dvlasits@gmail.com>
+Date:   Tue Jan 28 21:53:16 2020 +0000
+
+    Final NEA Version uploading
+
+commit 62580f77fe1411cdb0138530325a9c1ad029b978
+Author: redhell1000 <dvlasits@gmail.com>
+Date:   Sun Jan 26 17:59:37 2020 +0000
+
+    Design Complete
+
+commit 542fbd9cbbe2c3f283fd1c37f494fd6920e78ee9
+Author: redhell1000 <dvlasits@gmail.com>
+Date:   Sun Jan 26 14:22:29 2020 +0000
+
+    Whole Upload
+
+commit 46499d7a62b940b6bd9399351deb41ad53ed8d5b
+Author: Daniel Vlasits <dvlasits@gmail.com>
+Date:   Sun Jan 26 13:48:49 2020 +0000
+
+    Initial commit
